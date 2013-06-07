@@ -1,8 +1,7 @@
-Pineapple-Confs
-===============
+<h1>Pineapple-Confs</h1>
+<h2>TPLink Pineapple Mods</h2>
+<ul>
 
-TPLink Pineapple Mods
----------------------
-
-/etc/ contains the configurations that have been modified compared to a base openwrt install
-/usr/ contains the patched hostapd and hostapd_cli
+<li><strong>/etc/</strong> contains the configurations that have been modified compared to a base openwrt install</li>
+<li><strong>/usr/</strong> contains the patched hostapd and hostapd_cli</li>
+</ul>
